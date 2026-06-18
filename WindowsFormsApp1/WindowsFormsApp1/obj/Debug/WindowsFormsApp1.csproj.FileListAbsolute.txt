@@ -1,0 +1,13 @@
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LABORATORIO1-19\Desktop\AG- ENTORNOS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
